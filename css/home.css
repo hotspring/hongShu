@@ -1,0 +1,8 @@
+.webinfo
+{
+	position: fixed;
+	width:100%;
+	height:60px;
+	bottom:0;
+	background:url("../img/bottomline.png") no-repeat scroll center top
+}
