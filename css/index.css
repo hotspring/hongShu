@@ -1,9 +1,13 @@
 .enterBtn
 {
 	width:195px;
-	height:45px;
+	height:30%;
 	margin:0 auto;
-	margin-top:25%;
+}
+.enterBtn img
+{
+	position: absolute;
+	top:60%;
 }
 .solgan
 {

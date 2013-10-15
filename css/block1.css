@@ -1,0 +1,47 @@
+nav.menu .selected>a
+{
+	background:url("../img/menubg.png");
+}
+
+.menu ul>li.selected>ul
+{
+	display: block;
+}
+
+/*区位展示*/
+div.qwzs
+{
+	width:1048px;
+	height:463px;
+	margin:0 auto;
+	padding:13px;
+	border:1px solid #C5A86E;
+	margin-top:50px;
+}
+div.qwzs img
+{
+	border:1px solid #C5A86E;
+}
+
+div.slide
+{
+	width:1048px;
+	height:463px;
+	margin:0 auto;
+	padding:13px;
+	margin-top:50px;
+}
+
+a.slidesjs-previous
+{
+	position:absolute;
+	margin-left:-100px;
+	margin-top:-270px
+}
+a.slidesjs-next
+{
+	position:absolute;
+/*	float:right;*/
+	margin-left:1050px;
+	margin-top:-270px
+}
