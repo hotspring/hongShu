@@ -1,0 +1,27 @@
+div.hztd
+{
+	width:1141px;
+	height:454px;
+	margin:0 auto;
+	margin-top:50px;
+	background:url("../img/hztd/hztd_1_1.png");
+}
+div.hztd>a
+{
+	float:right;
+	margin:380px 40px 0 0;
+}
+
+div.hztd2
+{
+	width:1141px;
+	height:454px;
+	margin:0 auto;
+	margin-top:50px;
+	background:url("../img/hztd/hztd_2_1.png");
+}
+div.hztd2>a
+{
+	float:right;
+	margin:380px 40px 0 0;
+}

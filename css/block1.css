@@ -1,13 +1,3 @@
-nav.menu .selected>a
-{
-	background:url("../img/menubg.png");
-}
-
-.menu ul>li.selected>ul
-{
-	display: block;
-}
-
 /*区位展示*/
 div.qwzs
 {

@@ -1,0 +1,35 @@
+
+
+/*区位展示*/
+div.xmzt
+{
+	width:864px;
+	height:463px;
+	margin:0 auto;
+	padding:13px;
+	border:1px solid #C5A86E;
+	margin-top:50px;
+}
+div.xmzt>img
+{
+	border:1px solid #C5A86E;
+}
+
+div.xmzt>div
+{
+	text-align:center
+}
+div.jggh
+{
+	width:692px;
+	height:519px;
+	margin:0 auto;
+	margin-top:50px;
+}
+div.jggh>div
+{
+	position: relative;
+	margin-top:-490px;
+	margin-right:-150px;
+	float:right;
+}

@@ -375,6 +375,15 @@ textarea {
 {
 	display: block;
 }
+nav.menu .selected>a
+{
+	background:url("../img/menubg.png");
+}
+
+.menu ul>li.selected>ul
+{
+	display: block;
+}
 .webinfo
 {
 	position: fixed;

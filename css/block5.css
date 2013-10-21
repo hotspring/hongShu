@@ -1,0 +1,54 @@
+div.wyhb
+{
+	width:1202px;
+	height:430px;
+	margin:0 auto;
+	background:url("../img/wyhb/wyhb_2_1.png") no-repeat scroll;
+	margin-top:50px;
+}
+div#wyhb_1>img
+{
+	
+}
+
+div.xmzt>div
+{
+	text-align:center
+}
+div.jggh
+{
+	width:692px;
+	height:519px;
+	margin:0 auto;
+	margin-top:50px;
+}
+div.jggh>div
+{
+	position: relative;
+	margin-top:-490px;
+	margin-right:-150px;
+	float:right;
+}
+
+div.slide
+{
+	width:788px;
+	height:384px;
+	margin:0 auto;
+	padding:13px;
+	margin-top:50px;
+}
+
+a.slidesjs-previous
+{
+	position:absolute;
+	margin-left:-100px;
+	margin-top:-270px
+}
+a.slidesjs-next
+{
+	position:absolute;
+/*	float:right;*/
+	margin-left:800px;
+	margin-top:-270px
+}
