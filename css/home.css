@@ -1,8 +1,10 @@
-
+body
+{
+	background: url("../img/homepage.jpg") #000 scroll no-repeat center top
+}
 .homewords
 {
 	width:874px;
-	height:298px;
+	height:398px;
 	margin:0 auto;
-	margin-top:50px;
 }

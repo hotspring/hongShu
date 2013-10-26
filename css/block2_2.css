@@ -1,0 +1,31 @@
+body
+{
+	background: url("../img/xmgh/xmgh_2_bg.jpg") #000 scroll no-repeat center top
+}
+
+.mainSection
+{
+	width:778px;
+	height:395px;
+	margin:0 auto;	
+}
+
+/*区位展示*/
+div.xmzt
+{
+	width:642px;
+	height:345px;
+	margin:0 auto;
+	margin-bottom: 20px;
+	padding:13px;
+	border:1px solid #C5A86E;
+}
+div.xmzt>img
+{
+	border:1px solid #C5A86E;
+}
+
+div.xmzt>div
+{
+	text-align:center
+}

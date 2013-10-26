@@ -1,0 +1,27 @@
+body
+{
+	background: url("../img/qwbx/block_1_1_bg.jpg") #000 scroll no-repeat center top
+}
+
+div.slide
+{
+	width:764px;
+	height:321px;
+	margin:0 auto;
+	margin-bottom:50px;
+	padding:13px;
+}
+
+a.slidesjs-previous
+{
+	position:absolute;
+	margin-left:-50px;
+	margin-top:-170px
+}
+a.slidesjs-next
+{
+	position:absolute;
+/*	float:right;*/
+	margin-left:800px;
+	margin-top:-170px
+}

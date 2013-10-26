@@ -1,20 +1,10 @@
+body
+{
+	background: url("../img/cover.jpg") #000 scroll no-repeat center top
+}
 .enterBtn
 {
-	width:195px;
-	height:30%;
-	margin:0 auto;
-}
-.enterBtn img
-{
-	position: absolute;
-	top:60%;
-}
-.solgan
-{
-	width:1373px;
-	height:86px;
-	position: fixed;
-	bottom:10%;
-	left:50%;
-	margin-left:-687px;
+	width:102px;
+	height:24px;
+	margin:545px auto;
 }

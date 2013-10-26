@@ -1,0 +1,26 @@
+body
+{
+	background: url("../img/xmgh/xmgh_3_bg.jpg") #000 scroll no-repeat center top
+}
+
+.mainSection
+{
+	width:778px;
+	height:395px;
+	margin:0 auto;	
+}
+
+div.jggh
+{
+	width:516px;
+	height:387px;
+	margin:0 auto;
+	margin-bottom:50px;
+}
+div.jggh>div
+{
+	position: relative;
+	margin-top:-340px;
+	margin-right:-110px;
+	float:right;
+}

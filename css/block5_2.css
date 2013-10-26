@@ -1,0 +1,36 @@
+body
+{
+	background: url("../img/wyhb/wyhb_2_bg.jpg") #000 scroll no-repeat center top
+}
+div.wyhb
+{
+	width:849px;
+	height:339px;
+	margin:0 auto;
+	background:url("../img/wyhb/wyhb_2_1.png") no-repeat scroll;
+	margin-bottom:60px;
+}
+
+
+
+div.slide
+{
+	width:587px;
+	height:287px;
+	margin:0 auto;
+	padding-top:30px;
+}
+
+a.slidesjs-previous
+{
+	position:absolute;
+	margin-left:-30px;
+	margin-top:-210px
+}
+a.slidesjs-next
+{
+	position:absolute;
+/*	float:right;*/
+	margin-left:600px;
+	margin-top:-210px
+}

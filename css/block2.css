@@ -1,4 +1,14 @@
+body
+{
+	background: url("../img/xmgh/xmgh_1_bg.jpg") #000 scroll no-repeat center top
+}
 
+.mainSection
+{
+	width:778px;
+	height:395px;
+	margin:0 auto;	
+}
 
 /*区位展示*/
 div.xmzt

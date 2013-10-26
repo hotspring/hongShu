@@ -1,0 +1,16 @@
+body
+{
+	background: url("../img/qwbx/block_1_1_bg.jpg") #000 scroll no-repeat center top
+}
+
+
+.block_1_1
+{
+	width:778px;
+	height:345px;
+	margin:0 auto;	
+	padding:13px;
+	border:1px solid #C5A86E;
+	margin-bottom:20px;
+}
+
