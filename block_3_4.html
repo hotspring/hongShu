@@ -14,14 +14,17 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/home.css">
+        <link rel="stylesheet" type="text/css" href="css/elastislide.css" />
+        <link rel="stylesheet" href="css/block3_4.css">
+        <link rel="stylesheet" href="css/gallery.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-				
+        
+        
 		<div class="mainLogo">	
 			<a href="home.html">
 				<img src="img/logo.png" alt="">
@@ -54,7 +57,7 @@
 						<li><a href="block_3_4.html"><img src="img/jzbx/menu3_3.png" alt=""></a></li>
 					</ul>
 				</li>
-				<li>
+				<li >
 					<a href="block_4_1.html"><img src="img/menu4.png" alt=""></a>
 					<ul>
 						<li><a href="#"><img src="img/hztd/menu4_1.png" alt=""></a></li>
@@ -70,11 +73,23 @@
 				</li>
 				<li><a href="#"><img src="img/menu6.png" alt=""></a></li>
 			</ul>
-		</nav>	
+		</nav>
+		
+		<section id="dg-container" class="dg-container">
+				<div class="dg-wrapper">
+					<a href="#"><img src="img/jzbx/jzbx_4_1.jpg" alt="image01"></a>
+					<a href="#"><img src="img/jzbx/jzbx_4_1.jpg" alt="image02"></a>
+					<a href="#"><img src="img/jzbx/jzbx_4_1.jpg" alt="image03"></a>
+					
+				</div>
+				<div class="dg-prev">
+					<img src="img/leftarrow.png" alt="">
+				</div>
+				<div class="dg-next">
+					<img src="img/rightarrow.png" alt="">
+				</div>
+			</section>
 
-		<div class="homewords">
-			
-		</div>
 		
 		<div class="webinfo">
 			<div class="companyInfo">
@@ -88,6 +103,11 @@
 		<script src="js/vendor/jquery-1.10.2.min.js"></script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
-
+		<script type="text/javascript" src="js/jquery.gallery.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				$('#dg-container').gallery();
+			});
+		</script/>
     </body>
 </html>

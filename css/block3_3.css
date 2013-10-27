@@ -1,0 +1,13 @@
+body
+{
+	background: url("../img/jzbx/jzbx_3_bg.jpg") #000 scroll no-repeat center top
+}
+.mainSection
+{
+	width:960px;
+	height:225px;
+	margin:0 auto;	
+	margin-bottom: 100px;
+	text-align: right;
+	padding-top:70px;
+}

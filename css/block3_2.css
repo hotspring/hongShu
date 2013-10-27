@@ -1,0 +1,35 @@
+body
+{
+	background: url("../img/jzbx/jzbx_2_bg.jpg") #000 scroll no-repeat center top
+}
+.mainSection
+{
+	width:960px;
+	height:225px;
+	margin:0 auto;	
+	text-align: right;
+	padding-top:70px;
+}
+
+.elastislide-wrapper
+{
+	width:490px;
+	opacity: 0.6;
+	margin-bottom:20px;
+}
+
+.elastislide-horizontal ul li img
+{
+	width:111px;
+	max-width:146px;
+}
+
+.elastislide-horizontal ul li
+{
+	margin-right: 15px;
+}
+
+#bigThumb
+{
+	position: absolute;
+}
